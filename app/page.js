@@ -47,8 +47,7 @@ export default function Home() {
         <h2 className="text-2xl font-semibold text-blue-800 mb-4">Key Insights 🧠</h2>
         <ul className="list-disc list-inside space-y-2 text-gray-700">
           <li>
-            <strong>Strong Correlation:</strong> The data shows a strong positive correlation between a student's
-            attention level and their final assessment score.
+            <strong>Strong Correlation:</strong> The data shows a strong positive correlation between a student&apos;s attention level and their final assessment score.
           </li>
           <li>
             <strong>Student Personas:</strong> Four distinct learning personas were identified using clustering, which can help educators tailor their teaching methods.
