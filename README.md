@@ -6,7 +6,7 @@ Ever wonder what really drives student success? Is it just about studying, or do
 
 ## 🚀 Live Demo
 
-**Check out the live dashboard here:** [**Your Vercel Link Here**](https://your-project-name.vercel.app)
+**Check out the live dashboard here:** [**Your Vercel Link Here**](https://vercel.com/asheeka1724s-projects/student-performance-dashboard)
 
 ---
 ## What It Does
